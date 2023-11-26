@@ -14,10 +14,10 @@ Calculate the distance
 ### Step 5: 
 End the program
 ### PROGRAM:
-    import math
-    x1,x2,y1,y2=10,4,6,2
-    dis=math.sqrt((pow((x2-x1),2)+pow((y2-y1),2)))
-    print(round(dis,2))
+import math
+x1,x2,y1,y2=10,4,6,2
+dis=math.sqrt((pow((x2-x1),2)+pow((y2-y1),2)))
+print(round(dis,2))
 
 
 ### OUTPUT:
